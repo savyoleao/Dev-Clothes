@@ -1,4 +1,23 @@
 main{
    text-align: center;
-   padding: 50px;
+   padding: 40px;
+}
+
+footer{
+   padding-block: 40px;
+}
+
+.promotions{
+   width: 60vw;
+   margin-inline: auto;
+}
+
+.promotions h2, .form-group{
+   margin-bottom: 20px;
+}
+
+.form-group{
+   width: 25vw;
+   margin-right: 5vw;
+   float: left;
 }
