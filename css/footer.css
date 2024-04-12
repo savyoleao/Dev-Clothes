@@ -1,0 +1,33 @@
+footer{
+   height: 40vh;
+   padding-block: 40px;
+   border-top: solid 1px #CCC;
+}
+
+.promotions{
+   width: 60vw;
+   margin-inline: auto;
+}
+
+.promotions h2, .form-group{
+   margin-bottom: 20px;
+}
+
+.form-group{
+   width: 25vw;
+   margin-block: 2,5vw;
+   float: left;
+}
+
+.form-group input{
+   width: 70%;
+   padding: 10px;
+   background-color: #CCC;
+   border: none;
+}
+
+.form-group button{
+   background-color: black;
+   color: white;
+   padding: 10px 20px;
+}
